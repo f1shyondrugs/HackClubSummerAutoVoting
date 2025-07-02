@@ -1,0 +1,5 @@
+_journey_session=SOMETHING
+ahoy_visit=ALSO SOMETHING
+ahoy_visitor=ALSO SOMETHING
+fs_lua=ALSO SOMETHING
+fs_uid=ALSO SOMETHING

@@ -1,0 +1,3 @@
+# Ignore config with secrets
+config.json 
+node_modules
