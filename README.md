@@ -1,5 +1,7 @@
 # HackClub Summer Auto-Voting Bot
 
+!!! ONLY FOR EDUCATIONAL PURPOSES !!!
+
 ## Overview
 
 This Electron application automates the process of scanning HackClub Summer projects, extracting GitHub repository links, downloading README files, and intelligently voting on them using the OpenAI (ChatGPT) API. It's designed to streamline the voting process for HackClub Summer participants and judges.
