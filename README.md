@@ -27,7 +27,7 @@ This Electron application automates the process of scanning HackClub Summer proj
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/HackClubSummerAutoVoting.git
+    git clone https://github.com/f1shyondrugs312/HackClubSummerAutoVoting.git
     cd HackClubSummerAutoVoting
     ```
 2.  **Install dependencies:**
